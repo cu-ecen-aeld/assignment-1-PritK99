@@ -2,6 +2,7 @@
 
 if [ $# == 2 ]
 then
+	# extracting dirname and filename
 	dir=$(dirname "$1")
 	filename=$(basename "$1")
 	if [ -d $dir ]
