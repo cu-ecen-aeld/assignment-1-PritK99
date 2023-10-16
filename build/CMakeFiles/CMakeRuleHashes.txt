@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b70e3bc269853b72c957cc38b6915dae /home/prit/Desktop/assignment-1-PritK99/assignment-autotest/test/assignment1/Test_hello_Runner.c
